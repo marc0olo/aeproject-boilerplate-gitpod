@@ -4,7 +4,7 @@ This is a boilerplate to easily get started with [Sophia](https://docs.aeternity
 
 You can simply use this template to start your own Smart Contract project by forking it. You can then choose between:
 - Cloning the repo and running it locally on your machine
-- Use "Open in Gitpod" (note: adjust the repository URL in the README in case you fork the repo!)
+- Use "Open in Gitpod" (note: adjust the repository URL in the README after forking the repo!)
     - This will automatically execute `aeproject env` to spawn the local development environment
     - By executing `aeproject test` or `npm run test` you can execute the default test localted under `./test/exampleTest.js`
 
